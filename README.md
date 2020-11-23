@@ -13,4 +13,4 @@
 #### 编辑工具,导入图片,引用第三发网站
 
 #### 目前存在的bug,偶尔存在打开文件时内容不显示,移动窗口会自动刷新出来
-! [https://github.com/1163250377/notebook/blob/main/%E8%BD%AF%E4%BB%B6/pic.png] (AAA);
+![效果图](https://github.com/1163250377/notebook/blob/main/%E8%BD%AF%E4%BB%B6/pic.png)
